@@ -4,3 +4,10 @@ Problem Statement:
 •	Service which will perform the arithmetic computations.
 •	Define all constants in a Project Constants interface.
 
+Write a Java Program to demonstrate the following OOPS concept
+•  Class
+•  Object
+•  Abstraction
+•  Encapsulaton
+•  Polymorphism
+•  Inheritance
