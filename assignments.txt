@@ -1,0 +1,6 @@
+Problem Statement:
+1.  Perform the basic arithmetic operations using layered architecture such as controller and service. 
+•	Controller to accept the values and request for operations.
+•	Service which will perform the arithmetic computations.
+•	Define all constants in a Project Constants interface.
+
