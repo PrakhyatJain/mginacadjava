@@ -7,7 +7,7 @@ public class DivideByZero {
 		boolean flag = true;
 
 		int num = 10;
-		int den = 0;
+		int den = 5;
 
 		try {
 			System.out.println("Division result: " + num / den);

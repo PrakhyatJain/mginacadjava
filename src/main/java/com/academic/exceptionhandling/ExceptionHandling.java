@@ -8,8 +8,9 @@ public class ExceptionHandling {
 		DivideByZero divideByZero = new DivideByZero();
 		divideByZero.compute();
 		
+		//User defined exceptoin demo
 		VotingClass votingClass = new VotingClass();
-		int age = 15;
+		int age = 19;
 		try { 
 			
 			votingClass.vote(age);
