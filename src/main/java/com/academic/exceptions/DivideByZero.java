@@ -1,4 +1,4 @@
-package main.java.com.academic.exceptionhandling;
+package main.java.com.academic.exceptions;
 
 public class DivideByZero {
 
