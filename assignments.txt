@@ -1,6 +1,29 @@
-Problem Statement:
+Problem Statements:
 1.  Perform the basic arithmetic operations using layered architecture such as controller and service. 
 •	Controller to accept the values and request for operations.
 •	Service which will perform the arithmetic computations.
 •	Define all constants in a Project Constants interface.
+
+2.  Write a Java Program to demonstrate the following OOPS concept
+•  Class
+•  Object
+•  Abstraction
+•  Encapsulaton
+•  Polymorphism
+•  Inheritance
+
+
+3.  Perform Odd even numbers printing using the following control statements:
+•  for
+•  while
+•  do while
+
+
+Assignments
+1.	 Demonstrate collections – ArrayList, HashSet, HashMap
+2.	 Demonstrate exception handling divide by zero
+3.	 Demonstrate custom exception handling for the following conditions
+a.	If car speed is > 80 then throw exception “above average speed”
+b.	If car speed is > 120 then throw exception “over speed”
+
 
