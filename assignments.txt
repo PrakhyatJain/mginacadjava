@@ -19,11 +19,13 @@ Problem Statements:
 •  do while
 
 
-Assignments
-1.	 Demonstrate collections – ArrayList, HashSet, HashMap
-2.	 Demonstrate exception handling divide by zero
-3.	 Demonstrate custom exception handling for the following conditions
-a.	If car speed is > 80 then throw exception “above average speed”
-b.	If car speed is > 120 then throw exception “over speed”
+
+4.	 Demonstrate collections – ArrayList, HashSet, HashMap
+5.	 Demonstrate exception handling divide by zero
+6.	 Demonstrate custom exception handling for the following conditions
+		a.	If car speed is > 80 then throw exception “above average speed”
+		b.	If car speed is > 120 then throw exception “over speed”
+		
+5.  Perform DB operations Store Employee Details using JDBC and MySql
 
 
